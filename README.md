@@ -1,0 +1,3 @@
+# Library-Management-System
+This project encompasses the conceptualization and development of a sophisticated Basic Library Management System, tailored specifically for students. Rooted in the principles of Object-Oriented Programming (OOP), the system empowers students with a user-friendly interface to seamlessly browse available books, request or borrow titles, and efficiently manage returns.
+The system leverages a robust combination of programming concepts, including OOP, Functions, Loops, and If-elif Ladder statements. Through these foundational elements, the system achieves a high degree of flexibility, scalability, and reliability. It has been meticulously crafted using the Python programming language, renowned for its versatility and ease of implementation.
